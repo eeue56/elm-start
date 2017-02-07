@@ -1,0 +1,27 @@
+{
+  "name": "elm-start",
+  "version": "0.0.1",
+  "description": "Initialize your Elm package.json files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eeue56/elm-start.git"
+  },
+  "keywords": [
+    "elm",
+    "generator",
+    "init"
+  ],
+  "author": "eeue56",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/eeue56/elm-start/issues"
+  },
+  "homepage": "https://github.com/eeue56/elm-start#readme",
+  "dependencies": {
+    "nodegit": "^0.16.0"
+  }
+}
